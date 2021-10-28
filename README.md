@@ -8,10 +8,10 @@ We will release the code soon!
 Please cite Exact-Compression in your publication if it helps your research:
 
 ```
-@article{serra2021scaling,
+@inproceedings{serra2021scaling,
   title={Scaling Up Exact Neural Network Compression by ReLU Stability},
   author={Serra, Thiago and Xin, Yu and Kumar, Abhinav and Ramalingam, Srikumar},
-  journal={arXiv preprint arXiv:2102.07804},
+  booktitle={NeurIPS},
   year={2021}
 }
 ```
