@@ -1,5 +1,5 @@
-# Exact Compression
-[Exact-Compression](https://arxiv.org/pdf/2102.07804.pdf) is an approach to compress a rectifier network while exactly preserving its underlying functionality with respect to a given input domain if some of its neurons are stable.
+# Exact C
+[Exact-Compression](https://proceedings.neurips.cc/paper/2021/file/e35d7a5768c4b85b4780384d55dc3620-Paper.pdf) is an approach to compress a rectifier network while exactly preserving its underlying functionality with respect to a given input domain if some of its neurons are stable.
 
 ## Implementation
 We will release the code soon!
