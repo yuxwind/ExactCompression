@@ -4,20 +4,7 @@
 <p style="text-align:center;"><img src="figures/2021_11_NeurIPS_Thumbnail.png" align="center" width="450"/></p>
 
 ## Implementation
-We will release the code soon!
 
-## Citing Exact-Compression
-Please cite Exact-Compression in your publication if it helps your research:
-
-```
-@article{serra2021scaling,
-  title={Scaling Up Exact Neural Network Compression by ReLU Stability},
-  author={Serra, Thiago and Yu, Xin and Kumar, Abhinav and Ramalingam, Srikumar},
-  journal={Advances in Neural Information Processing Systems},
-  volume={34},
-  year={2021}
-}
-```
 ### Requirements
 1. Python 3
 2. [Pytorch](http://pytorch.org)
@@ -118,6 +105,7 @@ python train_fcnn.py --arch fcnn2d --resume model_dir/CIFAR10-rgb/dnn_CIFAR10-rg
 We provided the script 'llc2e.py' with the config of different combination of the netwrok architecure, regularization. Please feel free to play around it.
 
 Our main contribution is the new approach to get the stable neurons for a linear network. We thus provided a few models to make it easy to play with pruning networks.
+```
 model_dir
 ├── CIFAR100-rgb
 │   └── dnn_CIFAR100-rgb_400-400_7.500000000000001e-05_0001
@@ -126,3 +114,16 @@ model_dir
 └── MNIST
     ├── dnn_MNIST_100-100_0.0_0000
     └── dnn_MNIST_200-200_0.0_0001
+```    
+## Citing Exact-Compression
+Please cite Exact-Compression in your publication if it helps your research:
+
+```
+@article{serra2021scaling,
+  title={Scaling Up Exact Neural Network Compression by ReLU Stability},
+  author={Serra, Thiago and Yu, Xin and Kumar, Abhinav and Ramalingam, Srikumar},
+  journal={Advances in Neural Information Processing Systems},
+  volume={34},
+  year={2021}
+}
+```
