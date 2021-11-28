@@ -1,0 +1,7 @@
+model_dir/CIFAR10-rgb/dnn_CIFAR10-rgb_400-400_0.000175_0003, 50.75, , 85, 85, 284,, 137, 137, 131,, 118.60096430778503,, network, relaxation,, 637,, 
+model_dir/CIFAR10-rgb/dnn_CIFAR10-rgb_400-400_0.000175_0003, 50.75, , 85, 85, 284,, 137, 137, 131,, 115.03883242607117,, network, relaxation,, 637,, 
+model_dir/CIFAR10-rgb/dnn_CIFAR10-rgb_400-400_0.000175_0003, 50.75, , 85, 85, 284,, model_dir/CIFAR10-rgb/dnn_CIFAR10-rgb_400-400_0.000175_0003, 50.75, , model_dir/CIFAR10-rgb/dnn_CIFAR10-rgb_400-400_0.000175_0003, 50.75, , 85, 85, 284,, 137, 137, 131,, 116.25067162513733,, network, relaxation,, 637,, 
+model_dir/CIFAR10-rgb/dnn_CIFAR10-rgb_400-400_0.000175_0003, 50.75, , 85, 85, 284,, 137, 137, 131,, 113.6105272769928,, network, relaxation,, 637,, 
+model_dir/CIFAR10-rgb/dnn_CIFAR10-rgb_400-400_0.000175_0003, 50.75, , 85, 85, 284,, 137, 137, 131,, 114.27461242675781,, network, relaxation,, 637,, 
+model_dir/CIFAR10-rgb/dnn_CIFAR10-rgb_400-400_0.000175_0003, 50.75, , 85, 85, 284,, 137, 137, 131,, 114.36818361282349,, network, relaxation,, 637,, 
+model_dir/CIFAR10-rgb/dnn_CIFAR10-rgb_400-400_0.000175_0003, 50.75, , 
