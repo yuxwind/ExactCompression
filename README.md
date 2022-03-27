@@ -122,10 +122,9 @@ Please cite Exact-Compression in your publication if it helps your research:
 
 ```
 @article{serra2021scaling,
-  title={Scaling Up Exact Neural Network Compression by ReLU Stability},
+  title={Scaling Up Exact Neural Network Compression by {ReLU} Stability},
   author={Serra, Thiago and Yu, Xin and Kumar, Abhinav and Ramalingam, Srikumar},
-  journal={Advances in Neural Information Processing Systems},
-  volume={34},
+  journal={NeurIPS},
   year={2021}
 }
 ```
